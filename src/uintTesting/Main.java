@@ -4,7 +4,7 @@ package uintTesting;
  * @author Zachary Goldman
  */
 
-public class RunProject2 {
+public class Main {
     /**
      * Main method
      *

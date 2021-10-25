@@ -1,7 +1,5 @@
 package uintTesting;
 
-import java.text.DecimalFormat;
-
 /**
  * The International is a subclass of NonResident that can have a student study abroad
  *

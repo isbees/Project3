@@ -1,7 +1,5 @@
 package uintTesting;
 
-import java.text.DecimalFormat;
-
 /**
  * The TriState is a subclass of NonResident that can have a discount based on the state the student live in
  *
