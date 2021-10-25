@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author Zachary Goldman
  */
 
-public class TuitionManager {
+public class Controller {
     private static final int QUIT_COMMAND = 9;
     private static final int INVALID_COMMAND = -1;
 
